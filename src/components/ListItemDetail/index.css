@@ -1,0 +1,40 @@
+.top-header {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 38px;
+  border-bottom: 1px solid rgb(243, 243, 243);
+}
+
+.logo-home {
+  font-size: 30px;
+}
+
+.details {
+  display: flex;
+  padding: 20px 18px;
+}
+
+.poster-image {
+  width: 225px;
+  height: 180px;
+}
+.desc-title-desc {
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+}
+
+.rating-title {
+  display: flex;
+}
+
+.text-styling {
+  font-family: "Roboto";
+  font-size: 20px;
+  font-weight: 400px;
+  padding-bottom: 8px;
+}
+
+.rating {
+  padding-left: 8px;
+}
